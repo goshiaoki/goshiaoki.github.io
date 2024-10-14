@@ -1,5 +1,132 @@
-remote_theme: pages-themes/cayman@v0.2.0
-# plugins:
-# - jekyll-remote-theme # add this line to the plugins list if you already have one
+# Site settings
+title: Goshi Aoki's Resume
+email: goshi.aoki@icloud.com
+description: Resume website for Goshi Aoki
+baseurl: ""
+url: "https://goshiaoki.github.io"
+github_username: goshiaoki
 
-title: [Goshi Aoki]
+# Build settings  
+markdown: kramdown
+theme: minima
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+# Resume data
+resume:
+  name: Goshi Aoki  
+  contact:
+    phone: +81-90-1098-5004
+    email: goshi.aoki@icloud.com
+    website: https://goshiaoki.github.io
+  education:
+    - school: Zhejiang University 
+      degree: M.S. in Computer Science and Technology
+      dates: September 2022 - Present
+      details: |
+        Specialization: Artificial Intelligence, with a focus on Image and Video Generation
+        Cumulative grades: 94/100
+    - school: Keio University
+      degree: B.A. in Policy Management
+      dates: April 2018 - March 2022
+      details: |  
+        Areas of Study: Data Science, Statistics, Business
+        CGPA: 3.56/4.00
+        GPA in Data Science Courses: 3.93/4.00
+  research:
+    - position: Researcher
+      project: Generative AI Project
+      dates: August 2023 - present
+      advisor: Prof. Chen Hao
+      institution: Zhejiang University
+      details: |
+        Utilized the Stable Diffusion model to generate images and videos using Python and PyTorch.
+    - position: Research Intern 
+      project: Yahoo Japan Corporation
+      dates: May 2021 - September 2022
+      advisor: Dr. Kota Tsubouchi
+      institution: Yahoo Japan Corporation
+      details: |
+        Led collaborative research leveraging 16 years of web search big data (internal data).
+        Predicted economic indicators such as GDP and the Consumer Confidence Index using SQL and Python.
+        Analyzed the relationship between stock prices and travel data using Python.
+      
+  publications:
+    - papers:
+        - id: paper1
+          authors: Goshi Aoki et al
+          title: Paper Title
+          venue: Conference or Journal Name  
+          year: 2023
+        - id: paper2 
+          authors: Goshi Aoki and John Smith
+          title: Another Paper Title
+          venue: Another Conference  
+          year: 2022
+          
+  work:
+    - company: PKSHA Technology Inc.
+      position: Algorithm Engineer Intern 
+      dates: July 2023
+      details: |
+        Applied Large Language Models for enterprise solutions, defined requirements, and implemented algorithms.
+    - company: ReadHub Co., Ltd.
+      position: Founder and CEO
+      dates: April 2019 - July 2022
+      details: |  
+        Developed and managed smartphone applications including ReadHub, Phily, Audioroom, and boom.
+        Worked on developing smartphone apps (conducted data analysis using SQL, product management, legal research, human resources management, marketing, and worked with engineers)
+      location: Tokyo, Japan
+
+  awards:
+    - award: Chinese Government Scholarship
+      dates: September 2023 - present 
+      details: Highly competitive scholarship covering tuition support of 35,000 RMB and an annual stipend of 36,000 RMB (USD 4,400).
+    - award: Zhejiang Government Scholarship  
+      date: September 2022
+      details: Competitive scholarship providing tuition support of 30,000 RMB (USD 4,400) per year.
+    - award: Honorary Mention (3rd place out of 29 participants)
+      date: March 2022
+      details: OIST Science Challenge 2022, Okinawa Institute of Science and Technology Graduate University (Okinawa, Japan)
+      
+  projects:
+    - name: Tsukusuta
+      url: https://www.tsukusuta.com/
+      dates: 2023 - present
+      details: Developing an AI-powered sticker generation app for a popular messaging platform.
+    - name: KBC Summit  
+      url: https://x.com/keio_kbc?lang=en
+      dates: 2018 - 2019
+      details: Organized the 2019 conference for student entrepreneurs and served as a member of the marketing team. 
+
+  skills:
+    - category: Programming Languages  
+      items:
+        - Python
+        - PyTorch  
+        - Diffusers
+        - OpenCV
+    - category: Languages
+      items:  
+        - Japanese
+        - English
+        - Chinese
+        
+# Prose settings  
+prose:
+  rooturl: '_posts'
+  siteurl: 'https://goshiaoki.github.io/'
+  media: 'media'
+  ignore:
+    - index.md
+    - _config.yml
+    - /_layouts
+    - /_includes

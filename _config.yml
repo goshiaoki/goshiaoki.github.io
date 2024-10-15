@@ -1,6 +1,29 @@
-remote_theme: pages-themes/cayman@v0.2.0
-# plugins:
-# - jekyll-remote-theme # add this line to the plugins list if you already have one
+title: "Goshi Aoki"
+description: M.S. in Computer Science and Technology, Zhejiang University
 
-title: Goshi Aoki
-description: [A short description of your site's purpose]
+# Build settings
+markdown: kramdown
+theme: jekyll-theme-cayman
+show_downloads: false
+is_project_page: true
+
+button_linkedin:
+  url: https://www.linkedin.com/in/goshiaoki/
+  text: LinkedIn
+
+button_x:
+  url: https://x.com/goshi_aoki
+  text: X
+
+button_github:
+  url: https://github.com/goshiaoki
+  text: GitHub
+
+button_facebook:
+  url: https://www.facebook.com/goshi.aoki/
+  text: Facebook
+
+button_cv:
+  url: https://drive.google.com/file/d/16ndz6oP4xiqGJ4Er2glqKg3V_Zg0Aozg/view?usp=sharing
+  text: CV
+

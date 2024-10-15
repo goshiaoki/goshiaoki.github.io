@@ -2,7 +2,6 @@
 layout: default
 ---
 
-## About
 I am a third-year student in the M.S. in Computer Science and Technology program at Zhejiang University, supervised by Prof. Chen Hao. My research interests lie in AI for Social Science, with a focus on using Generative AI to implement social applications in political and economic domains.  
 I am currently seeking a PhD position for Fall 2025.  
 Email: goshiaoki [at] icloud.com

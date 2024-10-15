@@ -44,8 +44,7 @@ Email: goshiaoki [at] icloud.com
 
 - **Goshi Aoki**, Z. Liu, M. Liu, and H. Chen. *Adaptivefuse: Adaptive fusion for diffusion model composition*. Under Review.
 
-- **Goshi Aoki**, K. Ataka, T. Doi, and K. Tsubouchi. [*Data-driven estimation of economic indicators with search big data in discontinuous situation*](https://www.sciencedirect.com/science/article/pii/S2405918823000223). The Journal of Finance and Data Science, 9:100106, 2023. ISSN 2405-9188.
-
+- **Goshi Aoki**, K. Ataka, T. Doi, and K. Tsubouchi. *Data-driven estimation of economic indicators with search big data in discontinuous situation*. The Journal of Finance and Data Science, 9:100106, 2023. ISSN 2405-9188.
 
 ## Invited Talks
 

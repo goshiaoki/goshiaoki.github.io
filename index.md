@@ -3,8 +3,8 @@ layout: default
 ---
 
 ## About
-I am a third-year student in the M.S. in Computer Science and Technology program at Zhejiang University, and I am being supervised by Prof. Chen Hao. I am interested in AI for Social Science and I am going to use Generative AI to implement social applications in terms of political and economic aspects.  
-I am currently looking for a PhD position for the fall of 2025.  
+I am a third-year student in the M.S. in Computer Science and Technology program at Zhejiang University, supervised by Prof. Chen Hao. My research interests lie in AI for Social Science, with a focus on using Generative AI to implement social applications in political and economic domains. 
+I am currently seeking a PhD position for Fall 2025. 
 Email: goshiaoki [at] icloud.com
 
 ## Education
@@ -18,7 +18,7 @@ Email: goshiaoki [at] icloud.com
 - **Keio University (Tokyo, Japan)**  
   *April 2018 -- March 2022*  
   B.A. in Policy Management  
-  Areas of Study: Data Science, Business, Public Plicy  
+  Areas of Study: Data Science, Business, Public Policy  
   
 
 ## Research Experience
@@ -67,7 +67,7 @@ Email: goshiaoki [at] icloud.com
 - **ZEALS Co., Ltd. (Tokyo, Japan)**  
   *May 2018 -- September 2018*  
   *Marketing Intern*  
-  - Worked on a advertisement campaign.
+  - Worked on an advertisement campaign.
 
 ## Awards
 
@@ -93,4 +93,4 @@ Awarded  for regional students that exhibit academic excellence, providing tuiti
 
 ## Skills
 - **Programming Languages**: Python, PyTorch, Diffusers, OpenCV, SQL
-- **Languages**: Japanese, English, Chinese
+- **Languages**: Japanese (Native), English (Fluent), Chinese (Intermediate)

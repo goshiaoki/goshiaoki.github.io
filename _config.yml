@@ -7,9 +7,9 @@ theme: jekyll-theme-cayman
 show_downloads: false
 is_project_page: true
 
-button_linkedin:
-  url: https://www.linkedin.com/in/goshiaoki/
-  text: LinkedIn
+# button_linkedin:
+#   url: https://www.linkedin.com/in/goshiaoki/
+#   text: LinkedIn
 
 button_x:
   url: https://x.com/goshi_aoki

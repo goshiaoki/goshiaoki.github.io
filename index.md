@@ -42,6 +42,7 @@ Email: goshiaoki [at] icloud.com
   - Analyzed correlations between economic indicators and three years of web search data using SQL and Python.
 
 ## Publications
+- **Goshi Aoki**. *[Large Language Models in Politics and Democracy: A Comprehensive Survey](https://arxiv.org/abs/2412.04498)*. arXiv, 2024. 2412.04498 [cs.CL].
 
 - **Goshi Aoki**, Z. Liu, M. Liu, and H. Chen. *Adaptivefuse: Adaptive fusion for diffusion model composition*. Under Review.
 
